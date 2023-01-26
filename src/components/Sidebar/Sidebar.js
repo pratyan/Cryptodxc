@@ -30,7 +30,7 @@ function Sidebar({ color, image, routes }) {
             </div>
           </a>
           <a className="simple-text" href="http://www.creative-tim.com">
-            CryptoDCX
+            TFT
           </a>
         </div>
         <Nav>
